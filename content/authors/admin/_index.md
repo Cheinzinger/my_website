@@ -44,14 +44,14 @@ education:
   courses:
     - course: Clinical Research Scholars Program (MS)
       institution: Case Western Reserve University
-      year: 2023
+      year: anticipated 2023
     - course: Doctor of Osteopathic Medicine (DO)
       institution: New York Institute of Technology College of Osteopathic Medicine
       year: 2017
     - course: Integrative Neuroscience (BS)
       institution: Binghamton University
       year: 2013
-email: ""
+email: "catherine.heinzinger@gmail.com"
 superuser: true
 highlight_name: true
 ---

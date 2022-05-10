@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: 1950s
+  theme_night: 1950s
+  font: classic
   font_size: L
 
 # SEO
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
