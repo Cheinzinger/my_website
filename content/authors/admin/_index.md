@@ -4,11 +4,11 @@ role: Physician Scientist
 bio: My research interests lie at the intersection of sleep disorders and
   cardiovascular health.
 interests:
-  - Sleep-Medicine
-  - -Electrophysiology
-  - -Writing
-  - -Clinical-and-Translational-Research
-  - -Statistics
+  - Sleep Medicine
+  - Electrophysiology
+  - Writing
+  - Clinical and Translational Research
+  - Statistics
 social:
   - icon: envelope
     icon_pack: ai
