@@ -20,4 +20,4 @@ image:
   preview_only: false
 url_code: ""
 ---
-This analysis was done with R. {{% staticref "uploads/431_projA.html" "newtab" %}}See full project here.{{% /staticref %}}
+This analysis was done with R. {{% staticref "html/431_projA.html" "newtab" %}}See full project here.{{% /staticref %}}
