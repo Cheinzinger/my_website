@@ -20,12 +20,12 @@ image:
   preview_only: false
 url_code: ""
 ---
-This analysis was done with R.See full project here.
+This analysis was done with R.See full project here. <iframe width="100%" height="150" name="iframe" src="/static/html/431_projA.html"></iframe>
 
 
 
 
 
 ```r
-<iframe width="100%" height="150" name="iframe" src="/static/html/431_projA.html"></iframe>
+
 ```
