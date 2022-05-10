@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: Smart
   filename: featured.jpg
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 This analysis was done with R. {{% staticref "uploads/431_projA.html" "newtab" %}}See full project here.{{% /staticref %}}
