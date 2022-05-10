@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:
+    icon: comment-medical
+    icon_pack: fas
+    name: Clinical Sleep Medicine
+  - description:
+    icon: bed-pulse
+    icon_pack: fas
+    name: Polysomnography
+  - description:
+    icon: file-word
+    icon_pack: fas
+    name: Writing
+  - description:
+    icon: users
+    icon_pack: fas
+    name: Team Science
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

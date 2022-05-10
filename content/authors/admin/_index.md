@@ -1,8 +1,7 @@
 ---
 title: Catherine Heinzinger, DO
 role: Physician Scientist
-bio: My research interests lie at the intersection of sleep disorders and
-  cardiovascular health.
+bio: Researcher and clinician at the intersection of sleep disorders and cardiovascular health.
 interests:
   - Sleep Medicine
   - Electrophysiology
