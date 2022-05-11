@@ -65,7 +65,7 @@ experience:
       * Polysomnography
       * test
       
-- title: Family Medicine Resident
+  - title: Family Medicine Resident
     company: Stamford Hospital/Columbia University
     company_url: ''
     company_logo: stam-logo
