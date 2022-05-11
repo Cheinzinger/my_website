@@ -55,7 +55,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url: 'http://academic.oup.com/sleep/article/44/Supplement_2/A183/6260245'
+url: http://academic.oup.com/sleep/article/44/Supplement_2/A183/6260245
 url_code: ''
 url_dataset: ''
 url_poster: ''
