@@ -17,10 +17,9 @@ content:
   filters:
     folders:
       - publication
-    tag: 
     category: ''
-    publication_type: 'Letters', 'Manuscripts', 'Abstracts'
-    author: 'Heinzinger'
+    publication_type: ''
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
