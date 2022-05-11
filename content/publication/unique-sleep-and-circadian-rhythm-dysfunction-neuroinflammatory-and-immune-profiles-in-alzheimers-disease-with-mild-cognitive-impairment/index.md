@@ -24,7 +24,7 @@ date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -82,6 +82,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Sleep dysfunction has been identified in the pathophysiology of Alzheimer’s disease (AD); however, the role and mechanism of circadian rhythm dysfunction is less well understood. In a well-characterized cohort of patients with AD at the mild cognitive impairment stage (MCI-AD), we identify that circadian rhythm irregularities were accompanied by altered humoral immune responses detected in both the cerebrospinal fluid and plasma as well as alterations of cerebrospinal fluid biomarkers of neurodegeneration. On the other hand, sleep disruption was more so associated with abnormalities in circulating markers of immunity and inflammation and decrements in cognition.

@@ -26,7 +26,7 @@ date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -84,6 +84,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+In this comparative study of carefully AD biomarker-phenotyped and APOEƐ4-genotyped patients and normal cognition controls, less sleep time and more fragmented sleep are associated with poorer MMSE scores in MCI-AD. Preliminary results show cognitively normal participants at risk of AD(HR) do not show CRD seen in MCI-AD and are more consistent with controls (CL).

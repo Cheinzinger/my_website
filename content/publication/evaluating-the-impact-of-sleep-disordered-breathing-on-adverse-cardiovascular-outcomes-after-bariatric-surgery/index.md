@@ -28,7 +28,7 @@ date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -86,6 +86,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Preliminary data from this largest-to-date sample of systematically phenotyped patients with SDB undergoing bariatric surgery show significant differences in risk of MACE and MACE-free survival mitigated after consideration of obesity. Further investigation to elucidate effect modification by obesity and metabolic factors is needed.
