@@ -20,7 +20,7 @@
   [plugins.inputs]
     debug = true
 
-    [markup]
+[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
     unsafe = true

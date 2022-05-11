@@ -9,10 +9,7 @@ weight: 25  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-
-# ... Put Your Section Options Here (title etc.) ...
-title: My Projects
-subtitle: ''
+---
 
 content:
   # Choose which content to display in the widget
