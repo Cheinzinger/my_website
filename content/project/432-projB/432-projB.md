@@ -1,6 +1,6 @@
 ---
-title: Impact of Mental Health and Unemployment on Violent Crime in Select US Counties
-summary: CRSP 431 Project A
+title: Predicting Dog Breed Rankings and Traits
+summary: CRSP 432 Project B
 date: ""
 
 reading_time: false  # Show estimated reading time?
@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "431-projA.jpg"
+  image: ""
 ---
 
-{{% staticref "html/431_projA.html" "newtab" %}}See full project here{{% /staticref %}}
+{{% staticref "html/432_projB.html" "newtab" %}}See full project here{{% /staticref %}}

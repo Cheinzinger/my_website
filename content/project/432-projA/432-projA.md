@@ -1,6 +1,6 @@
 ---
-title: Impact of Glycohemoglobin on Total Sleep Time in US Adults
-summary: CRSP 431 Project B Study 2
+title: Factors Influencing Calories and Whipped Cream in Starbucks Beverages
+summary: CRSP 432 Project A
 date: ""
 
 reading_time: false  # Show estimated reading time?
@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "431-projB-study2.jpg"
+  image: ""
 ---
 
-{{% staticref "html/431_projB_study2.html" "newtab" %}}See full project here{{% /staticref %}}
+{{% staticref "html/432_projA.html" "newtab" %}}See full project here{{% /staticref %}}

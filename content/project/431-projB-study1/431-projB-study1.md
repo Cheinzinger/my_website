@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "431-projB-study1.jpg"
+  image: ""
 ---
 
 {{% staticref "html/431_projB_study1.html" "newtab" %}}See full project here{{% /staticref %}}
