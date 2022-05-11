@@ -2,14 +2,13 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-draft: true
-active: false
+draft: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -24,28 +23,58 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: T32 Research Scholar
+    company: Cleveland Clinic
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: cc-logo
+    location: Ohio
+    date_start: '2021-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Grant writing
+        * Manuscript writing
+        * Coursework
+        * Collecting & analyzing data
+    
+  - title: Licensed Clinical Practitioner
+    company: Cleveland Clinic
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: cc-logo
+    location: Ohio
+    date_start: '2022-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Patient care
+        * Polysomnography
+
+  - title: Sleep Medicine Fellow (Chief)
+    company: Cleveland Clinic
+    company_url: ''
+    company_logo: cc-logo
+    location: Ohio
+    date_start: '2020-07-01'
+    date_end: '2021-07-16'
+    description: |2-
+      Responsibilities included:
+      
+      * Patient care
+      * Polysomnography
+      * Organizing and attending didactics, journal clubs, and case conferences
+      * Development, analysis, and presentation of multiple research project
+      * Development, analysis, and presentation of a quality improvement project
+      
+- title: Family Medicine Resident
+    company: Stamford Hospital/Columbia University
+    company_url: ''
+    company_logo: stam-logo
+    location: Connecticut
+    date_start: '2017-07-01'
+    date_end: '2020-06-30'
+    description: ''
 
 design:
   columns: '2'
