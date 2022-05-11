@@ -64,8 +64,7 @@ experience:
       * Patient care
       * Polysomnography
       * Organizing and attending didactics, journal clubs, and case conferences
-      * Development, analysis, and presentation of multiple research project
-      * Development, analysis, and presentation of a quality improvement project
+      * Development, analysis, and presentation of multiple research projects and a quality improvement project
       
 - title: Family Medicine Resident
     company: Stamford Hospital/Columbia University
