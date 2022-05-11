@@ -31,7 +31,6 @@ experience:
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Grant writing
         * Manuscript writing
@@ -46,7 +45,6 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Patient care
         * Polysomnography
@@ -59,11 +57,11 @@ experience:
     date_start: '2020-07-01'
     date_end: '2021-07-16'
     description: |2-
-      Responsibilities included:
       
       * Patient care
       * Polysomnography
-      * test
+      * Organizing and attending didactics, journal clubs, and case conferences
+      * Developing, analyzing, and presenting multiple research projects and a quality improvement project
       
   - title: Family Medicine Resident
     company: Stamford Hospital/Columbia University
