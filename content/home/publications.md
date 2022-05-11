@@ -17,10 +17,10 @@ content:
   filters:
     folders:
       - publication
-    tag: ''
+    tag: []
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'Letters', 'Manuscripts', 'Abstracts'
+    author: 'Heinzinger'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -35,7 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
