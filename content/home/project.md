@@ -9,7 +9,6 @@ weight: 25  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
----
 
 content:
   # Choose which content to display in the widget
@@ -48,3 +47,4 @@ design:
   view: masonry
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+---
