@@ -34,7 +34,6 @@ publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: "Unique Sleep and Circadian Rhythm Dysfunction Neuroinflammatory and Immune Profiles in Alzheimer's Disease with Mild Cognitive Impairment"
-publication_short: ""
 
 abstract: "Sleep dysfunction has been identified in the pathophysiology of Alzheimer’s disease (AD); however, the role and mechanism of circadian rhythm dysfunction is less well understood. In a well-characterized cohort of patients with AD at the mild cognitive impairment stage (MCI-AD), we identify that circadian rhythm irregularities were accompanied by altered humoral immune responses detected in both the cerebrospinal fluid and plasma as well as alterations of cerebrospinal fluid biomarkers of neurodegeneration. On the other hand, sleep disruption was more so associated with abnormalities in circulating markers of immunity and inflammation and decrements in cognition.""
 
