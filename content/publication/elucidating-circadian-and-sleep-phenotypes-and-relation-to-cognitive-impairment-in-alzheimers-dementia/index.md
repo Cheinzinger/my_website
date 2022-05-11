@@ -4,8 +4,9 @@ title: 'Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Imp
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
+
 authors:
-  -	Heinzinger C
+  - Heinzinger C
   - Wang L
   - Bena J
   - Bekris LM
