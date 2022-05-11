@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: []
+    tag: 
     category: ''
     publication_type: 'Letters', 'Manuscripts', 'Abstracts'
     author: 'Heinzinger'
