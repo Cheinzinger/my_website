@@ -1,22 +1,19 @@
 ---
-title: 'Evaluating the Impact of Sleep Disordered Breathing on Adverse Cardiovascular Outcomes After Bariatric Surgery'
+title: 'Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer`s Dementia'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Heinzinger C
-  - Chindamporn P
-  - Bena J
+  -	Heinzinger C
   - Wang L
-  - Milinovich A
-  - Kaw R
-  - Kashyap S
-  - Cetin D
-  - Aminian A
-  - Kempke N
+  - Bena J
+  - Bekris LM
   - Foldvary-Schaefer N
-  - Aboussouan L
+  - Pillai JA
+  - Sujata Rao
+  - Stephen Rao
+  - Leverenz JB
   - Mehra R
 
 # Author notes (optional)
@@ -37,13 +34,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Evaluating the Impact of Sleep Disordered Breathing on Adverse Cardiovascular Outcomes After Bariatric Surgery
+publication: Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer`s Dementia
 publication_short: 
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Preliminary data from this largest-to-date sample of systematically phenotyped patients with SDB undergoing bariatric surgery show significant differences in risk of MACE and MACE-free survival mitigated after consideration of obesity. Further investigation to elucidate effect modification by obesity and metabolic factors is needed.
+summary: In this comparative study of carefully AD biomarker-phenotyped and APOEƐ4-genotyped patients and normal cognition controls, less sleep time and more fragmented sleep are associated with poorer MMSE scores in MCI-AD. Preliminary results show cognitively normal participants at risk of AD(HR) do not show CRD seen in MCI-AD and are more consistent with controls (CL).
 
 tags: []
 
@@ -55,7 +52,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url: 'https://academic.oup.com/sleep/article/44/Supplement_2/A183/6260245'
+url: 'https://academic.oup.com/sleep/article/44/Supplement_2/A166/6260550'
 url_code: ''
 url_dataset: ''
 url_poster: ''
