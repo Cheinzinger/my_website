@@ -51,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8179975/pdf/nihms-1709175.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
