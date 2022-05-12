@@ -45,7 +45,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: Preliminary data from this largest-to-date sample of systematically phenotyped patients with SDB undergoing bariatric surgery show significant differences in risk of MACE and MACE-free survival mitigated after consideration of obesity. Further investigation to elucidate effect modification by obesity and metabolic factors is needed.
 
-tags: []
+tags: ["Abstracts"]
 
 # Display this page in the Featured widget?
 featured: false

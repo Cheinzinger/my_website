@@ -39,7 +39,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: Sleep-related hypoxemia, defined by cumulative burden below 90% SaO2, demonstrated an association with incident AF in this large clinic-based cohort, even considering confounding factors. On the other hand, SDB severity as defined by AHI did not demonstrate this relationship. These findings are consistent with experimental models that identify intermittent hypoxia and oxidative stress leading to alterations of the cardiac substrate, thus implicating sleep-related hypoxemic mechanisms as a salient driver in the evolution of atrial arrhythmogenesis.
 
-tags: []
+tags: ["Abstracts"]
 
 # Display this page in the Featured widget?
 featured: false

@@ -41,7 +41,7 @@ abstract: Sleep dysfunction has been identified in the pathophysiology of Alzhei
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: ["Journal Articles"]
 
 # Display this page in the Featured widget?
 featured: false

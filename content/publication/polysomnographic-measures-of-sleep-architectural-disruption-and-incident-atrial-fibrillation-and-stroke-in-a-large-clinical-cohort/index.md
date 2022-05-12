@@ -39,7 +39,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: Objective measures of disrupted sleep architecture predicted incident AF in this clinical cohort. However, arousal index was not associated with AF development, nor stroke development in secondary analyses. Further investigation is needed to elucidate the role of arousal in SDB, perhaps with hierarchal models to clarify the degree to which confounders attenuate or accentuate any relationship.
 
-tags: []
+tags: ["Abstracts"]
 
 # Display this page in the Featured widget?
 featured: false

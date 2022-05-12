@@ -43,7 +43,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: In this comparative study of carefully AD biomarker-phenotyped and APOEƐ4-genotyped patients and normal cognition controls, less sleep time and more fragmented sleep are associated with poorer MMSE scores in MCI-AD. Preliminary results show cognitively normal participants at risk of AD(HR) do not show CRD seen in MCI-AD and are more consistent with controls (CL).
 
-tags: []
+tags: ["Abstracts"]
 
 # Display this page in the Featured widget?
 featured: false
