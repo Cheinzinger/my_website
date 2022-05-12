@@ -1,0 +1,18 @@
+---
+title: Polysomnographic Measures of Sleep Architectural Disruption and Incident Atrial Fibrillation and Stroke in a Large Clinical Cohort
+summary: Poster & Oral Presentation at SLEEP 2022, the annual meeting of the Associated Professional Sleep Societies
+date: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+tags: ["Posters", "Talks"]
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+Poster and slides will be available in July 2022.
