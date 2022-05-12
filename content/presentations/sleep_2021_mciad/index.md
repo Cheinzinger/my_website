@@ -1,6 +1,5 @@
 ---
-title: Elucidating Circadian and Sleep Phenotypes and Relation to
-Cognitive Impairment in Alzheimer`s Dementia
+title: Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer`s Dementia
 summary: Poster Presentation at SLEEP 2021, the annual meeting of the Associated Professional Sleep Societies
 date: ""
 
