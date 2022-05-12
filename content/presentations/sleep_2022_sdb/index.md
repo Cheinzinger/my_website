@@ -1,6 +1,6 @@
 ---
 title: Sleep Disordered Breathing and Hypoxemia Association with Incident Atrial Fibrillation in a Clinic-Based Cohort
-summary: "1. Poster & Oral Presentation at SLEEP 2022, the annual meeting of the Associated Professional Sleep Societies and 2. Platform Presentation at the Cleveland Clinic Neurological Institute Forum for Trainees 2022 Research Day"
+summary: Poster & Oral Presentation at SLEEP 2022, the annual meeting of the Associated Professional Sleep Societies and Platform Presentation at the Cleveland Clinic Neurological Institute Forum for Trainees 2022 Research Day
 date: ""
 
 reading_time: false  # Show estimated reading time?
