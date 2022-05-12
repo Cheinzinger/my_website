@@ -48,6 +48,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: showcase
+  view: list
   columns: '2'
 ---
