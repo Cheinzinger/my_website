@@ -31,10 +31,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Posters 
-      tag: Posters
     - name: Talks
       tag: Talks
+    - name: Posters 
+      tag: Posters
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0

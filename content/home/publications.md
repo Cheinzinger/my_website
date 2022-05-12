@@ -39,7 +39,7 @@ content:
     - name: All
       tag: '*'
     - name: Abstracts 
-      tag: Abstracs
+      tag: Abstracts
     - name: Journal Articles
       tag: Journal Articles
 
