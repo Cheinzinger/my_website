@@ -31,7 +31,7 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Sleep-Related Hypoxemia Association with Incident Atrial Fibrillation in a Clinic-Based Cohort
+publication: ''
 publication_short: 
 
 abstract: 

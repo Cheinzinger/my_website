@@ -31,7 +31,7 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Polysomnographic Measures of Sleep Architectural Disruption and Incident Atrial Fibrillation and Stroke in a Large Clinical Cohort
+publication: ''
 publication_short: 
 
 abstract: 

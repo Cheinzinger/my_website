@@ -35,7 +35,7 @@ publishDate: '2021-05-03'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer`s Dementia
+publication: ''
 publication_short: 
 
 abstract: 

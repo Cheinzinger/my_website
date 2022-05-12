@@ -37,7 +37,7 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Evaluating the Impact of Sleep Disordered Breathing on Adverse Cardiovascular Outcomes After Bariatric Surgery
+publication: ''
 publication_short: 
 
 abstract: 
