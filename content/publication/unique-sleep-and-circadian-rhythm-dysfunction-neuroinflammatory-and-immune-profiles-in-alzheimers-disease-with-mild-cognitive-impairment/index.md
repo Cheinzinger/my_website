@@ -20,8 +20,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: ''
-doi: ''
+date: '2021-06-06'
+doi: '10.3233/JAD-201573'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
