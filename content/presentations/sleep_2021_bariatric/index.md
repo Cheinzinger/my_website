@@ -1,5 +1,5 @@
 ---
-title: Evaluating the Impact of Sleep Disordered Breathing on Adverse Cardiovascular Outcomes After Bariatric Surgery
+title: Evaluating the Impact of Sleep Disordered Breathing on Adverse Cardiovascular Outcomes After Bariatric Surgery
 summary: Poster Presentation at SLEEP 2021, the annual meeting of the Associated Professional Sleep Societies
 date: ""
 
